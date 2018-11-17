@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.imageprocessing.image;
+package com.imageprocessing.opencv.image;
 
 import org.opencv.core.Mat;
 import org.opencv.imgcodecs.Imgcodecs;
